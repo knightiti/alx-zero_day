@@ -1,0 +1,1 @@
+This project 0x03-git is a project on git carried out on the 8th of june. It is part of the alx software engineering mandatory projects.
